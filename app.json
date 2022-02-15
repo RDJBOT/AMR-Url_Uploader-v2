@@ -9,7 +9,7 @@
   ],
   "success_url": "https://github.com/satyushree",
   "website": "https://telegram.me/shreevish",
-  "repository": "https://github.com/satyushree/AMR-Url_Uploader-v2",
+  "repository": "https://github.com/RDJBOT/AMR-Url_Uploader-v2",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
