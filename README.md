@@ -64,7 +64,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
   <summary><b>Host it on VPS Locally :</b></summary>
 
 ```py
-git clone https://github.com/Satyamurthi/AMR-Url_Uploader
+git clone https://github.com/RDJBOT/AMR-Url_Uploader-v2
 cd AMR-Url_Uploader
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
